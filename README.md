@@ -1,3 +1,5 @@
+# Responsive Search Ads Builder
+
 Do you want to create RSA's for your clients or business in less than 10 minutes?
 
 RSA Builder is that script.
